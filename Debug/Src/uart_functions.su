@@ -1,0 +1,7 @@
+uart_functions.c:10:6:uart_transmit	96	static
+uart_functions.c:136:6:check_burn	16	static
+uart_functions.c:153:6:burn_down	16	static
+uart_functions.c:169:6:checksum_generator	0	static
+uart_functions.c:23:6:uart_receive	56	static
+uart_functions.c:177:6:read_adc	24	static
+uart_functions.c:193:6:calc_avg	32	static
